@@ -1,0 +1,14 @@
+# Folders
+.idea/
+
+# dep directory
+vendor
+
+# build artifacts
+TaxiFare
+build
+debug
+
+.vscode/
+
+.DS_Store

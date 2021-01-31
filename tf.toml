@@ -1,0 +1,4 @@
+# Taxi fare server configuration file
+
+data_path = "/home/ralph/go/src/TaxiFare/data/"
+rides_file = "rides.json"
